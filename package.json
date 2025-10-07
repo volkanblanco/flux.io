@@ -4,9 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "server": "node server.js",
-    "ui": "webpack serve",
-    "build": "webpack --watch"
+    "server": "node server.js"
   },
   "keywords": [],
   "author": "",
