@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600px" height="1080px" viewBox="0 0 1600 1080" version="1.1">
+        <title>12 Col Grid - 24px gutter - 140px margin@2x</title>
+        <g id="12-Col-Grid---24px-gutter---140px-margin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <rect fill="transparent" x="0" y="0" width="1600" height="1080"/>
+            <rect id="Rectangle" fill="#FFF5BB" x="0" y="0" width="140" height="1080"/>
+            <rect id="Rectangle-Copy" fill="#FFF5BB" x="1460" y="0" width="140" height="1080"/>
+            <rect id="Rectangle" fill="#FFCCCC" x="140" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-5" fill="#FFCCCC" x="588" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-2" fill="#FFCCCC" x="252" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-6" fill="#FFCCCC" x="700" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-3" fill="#FFCCCC" x="364" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-7" fill="#FFCCCC" x="812" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-4" fill="#FFCCCC" x="476" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-8" fill="#FFCCCC" x="924" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-9" fill="#FFCCCC" x="1036" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-10" fill="#FFCCCC" x="1148" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-11" fill="#FFCCCC" x="1260" y="0" width="88" height="1080"/>
+            <rect id="Rectangle-Copy-12" fill="#FFCCCC" x="1372" y="0" width="88" height="1080"/>
+        </g>
+    </svg>
