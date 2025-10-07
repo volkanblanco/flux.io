@@ -4,7 +4,7 @@ window.onload = function () {
 	let introVideo = document.createElement('video')
 	introVideo.loop = true
 	let source = document.createElement('source')
-	source.src = "./static/3d-Lightning-front-1080p.mov"
+	source.src = "./public/static/3d-Lightning-front-1080p.mov"
 
 	introVideo.appendChild(source)
 
